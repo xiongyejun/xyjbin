@@ -5,8 +5,8 @@ copy %GOBIN%\vbaUI.exe vbaUI.exe
 copy %GOBIN%\lan.exe lan.exe
 copy %GOBIN%\fisql.exe fisql.exe
 copy %GOBIN%\filebyte.exe filebyte.exe
-copy %GOBIN%\BaiduPCS-Go.exe.exe BaiduPCS-Go.exe.exe
-
+copy %GOBIN%\BaiduPCS-Go.exe BaiduPCS-Go.exe
+copy %GOBIN%\qrCode.exe qrCode.exe
 
 
 pause
