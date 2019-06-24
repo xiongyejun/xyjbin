@@ -13,8 +13,8 @@ REM C:\go386\bin\go.exe build -o vbaUI_386.exe %GOPATH%\src\github.com\xiongyeju
 REM C:\go386\bin\go.exe build -o lan_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\lan
 REM C:\go386\bin\go.exe build -o fisql_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\fisql
 REM C:\go386\bin\go.exe build -o filebyte_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\filebyte
-REM C:\go386\bin\go.exe build -o BaiduPCS-Go_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\BaiduPCS-Go
-C:\go386\bin\go.exe build -o qrCode_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\qrCode
+C:\go386\bin\go.exe build -o BaiduPCS-Go_386.exe %GOPATH%\src\github.com\iikira\BaiduPCS-Go
+REM C:\go386\bin\go.exe build -o qrCode_386.exe %GOPATH%\src\github.com\xiongyejun\xyjgo\qrCode
 
 
 
